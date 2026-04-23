@@ -1,6 +1,6 @@
 # BEACON-IO: Expression-Driven Dependencies at the Tumor-Immune Interface for Precision Immuno-Oncology
 
-[![CI](https://github.com/elmasa02/beacon-io/actions/workflows/ci.yml/badge.svg)](https://github.com/elmasa02/beacon-io/actions/workflows/ci.yml)
+[![CI](https://github.com/aelmas/beacon-io/actions/workflows/ci.yml/badge.svg)](https://github.com/aelmas/beacon-io/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![BEACON paper](https://img.shields.io/badge/BEACON-GigaScience%202026-green.svg)](https://doi.org/10.1093/gigascience/giag011)
