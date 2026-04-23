@@ -10,7 +10,7 @@ abstract: >
   immune context, enables rational prioritization of ICB combination targets.
 authors:
   - family-names: Elmas
-    given-names: Ahmet
+    given-names: Abdulkadir
     orcid: "https://orcid.org/0000-0000-0000-0000"  # update with your ORCID
 version: "0.1.0"
 date-released: "2026-04-22"
